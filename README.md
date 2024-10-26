@@ -10,7 +10,7 @@ This repository contains the source files for my MkDocs documentation project, u
 ## 🚀 Live Documentation
 
 You can view the live version of this documentation at:
-[https://github.com/Franck_Sorel/mk-docs](https://github.com/Franck_Sorel/mk-docs)
+[https://github.com/Franck-Sorel/mk-docs](https://github.com/Franck-Sorel/mk-docs)
 
 ## 🛠️ Local Setup
 
@@ -18,7 +18,7 @@ To run the project locally and preview the documentation:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Franck_Sorel/mk-docs
+    git clone https://github.com/Franck-Sorel/mk-docs
     cd my-mkdocs-project
     ```
 
